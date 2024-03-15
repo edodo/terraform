@@ -1,5 +1,5 @@
 # terraform
-## terraform  
+## I terraform 샘플  
 1. 테라폼 설치  
 ```
 yum install -y yum-utils
@@ -131,7 +131,7 @@ terraform destroy
 ```
 
 
-## aws_set  
+## II aws_set 샘플 작성해 보기  
 
 ```
 mkdir aws-set && cd $_
