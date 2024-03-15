@@ -25,7 +25,8 @@ CommandLineInterface(CLI) 클릭
 확인 체크박스 클릭 > 다음 > 액세스키 만들기 클릭  
 액세스키와 비밀 액세스키를 복사해서 아래 설정 정보로 붙여 넣기  
 ```
-
+#export 에이더블유에스_ACCESS_KEY_ID=키복사
+#export 에이더블유에스_SECRET_ACCESS_KEY=시크릿키 복사
 ```
 위 명령어를 vpc 상에서 실행후 aws 접속  
 aws 접속 테스트  
