@@ -687,3 +687,11 @@ output "lb_dns_name" {
 }
 
 ```
+테라폼 수행  
+
+terraform init  
+terraform validate (구성만 참조하고 원격 상태, 공급자 API 등과 같은 원격 서비스에 액세스하지 않고 디렉터리의 구성 파일을 유효성 검사합니다.)  
+terraform plan  
+terraform apply -auto-approve  
+terraform output lb_dns_name  
+terraform destroy -auto-approve  
